@@ -1,3 +1,9 @@
+# No longer supported
+
+We recommend taking a look at our apps engine
+
+https://docs.rocket.chat/docs/rocketchat-private-apps
+
 ![Rocket.Chat logo](https://rocket.chat/images/logo/logo-dark.svg?v3)
 
 [![Rocket.Chat](https://open.rocket.chat/api/v1/shield.svg?type=channel&name=Rocket.Chat&channel=hubot)](https://open.rocket.chat/channel/hubot)
